@@ -5,7 +5,7 @@ Library for a mock IO Writer
 ```Go
 import(
 	"fmt"
-	"github.com/monsooncommerce/mockwriter"
+	"github.com/stoneedgetech/mockwriter"
 	"strings"
 )
 
